@@ -1,6 +1,8 @@
 # logoGAN
 Using StyleGAN2-ADA to generate football club logos.
 
+![logos](https://user-images.githubusercontent.com/77151129/175832739-e6eeb69d-0302-4b4e-bc7f-f70fc32568d4.png)
+
 ### Data sources:
 - https://github.com/luukhopman/football-logos
 - https://github.com/milosmladenovic5/football_clubs_logo_scraper
